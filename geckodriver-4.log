@@ -1,0 +1,17 @@
+1780681926642	geckodriver	INFO	Listening on 127.0.0.1:64683
+1780681929732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SWATHI~1\\AppData\\Local\\Temp\\rust_mozprofilehMoW39"
+Dynamically enable window occlusion 0
+1780681929945	Marionette	INFO	Marionette enabled
+1780681930013	Marionette	INFO	Listening on port 60563
+WebDriver BiDi listening on ws://127.0.0.1:64684
+Read port: 60563
+1780681930101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR shell_windows::limited_access_features] Error generating feature token: NS_ERROR_FAILURE
+console.error: "Experiment desktop-release-rollout-show-relay-to-all-browsers-next-sign-up-modal-cta has unknown featureId: email-autocomplete-relay"
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1780681933724	Marionette	INFO	Stopped listening on port 60563
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 50: TypeError: can't access property "QueryInterface", aWindow.docShell is null
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 465: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]

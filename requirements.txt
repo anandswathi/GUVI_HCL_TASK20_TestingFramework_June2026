@@ -1,0 +1,7 @@
+# Python packages this project needs.
+
+# Robot Framework
+robotframework
+
+# SeleniumLibrary
+robotframework-seleniumlibrary

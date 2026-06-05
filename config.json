@@ -1,0 +1,11 @@
+{
+  "url": "https://www.saucedemo.com/",
+  "browser": "Firefox",
+  "valid_username": "standard_user",
+  "valid_password": "secret_sauce",
+  "invalid_username": "wrong_user",
+  "invalid_password": "wrong_password@123",
+  "first_name": "Samuel",
+  "last_name": "Thomas",
+  "postal_code": "54321"
+}
